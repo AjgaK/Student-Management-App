@@ -1,3 +1,6 @@
+"""
+    Author: Iga Kordula s24646
+"""
 import csv
 import tkinter as tk
 from tkinter import *
