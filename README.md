@@ -1,4 +1,4 @@
-# Student-Management-App
+# Student Management App
 
 ## Purpose
 The purpose of this project is to create a student management system that allows users to manage student records. The system provides features for adding, updating, and deleting student information. It also supports importing student data from CSV files. The project aims to provide a user-friendly interface and ensure data integrity by validating input formats.
@@ -13,8 +13,8 @@ The purpose of this project is to create a student management system that allows
 
 ## Dependencies
 - Python 3.x
-- Tkinter library
-- SQLAlchemy library
+- Tkinter library - for GUI
+- SQLAlchemy library - for the database
 
 ## How to Run the Program
 1. Install Python 3.x on your system.
